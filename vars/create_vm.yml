@@ -1,5 +1,5 @@
 ---
 tenancy: default
 aws_profile: default
-instance_type: t2.micro
+instance_type: t2.medium
 instance_name: test_vm
