@@ -1,7 +1,7 @@
 ---
 aws_region: us-east-1
 aws_keypair_name: aws-test-key
-aws_instance_size: t2.micro
+aws_instance_size: t2.medium
 tenancy: default
 aws_securitygroup_name: private-network-sg
 aws_vpc_subnet_name: priv-net-private-subnet
